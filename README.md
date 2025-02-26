@@ -4,11 +4,11 @@
 
 ---
 
-###**About Me**
+**About Me**
 
--i am game developer
--i am python developer
--i am learning hacking
+i am game developer
+i am python developer
+i am learning hacking
 
 ---
 
@@ -42,7 +42,7 @@
 
 ---
 
-###**GitHub Stats**
+**GitHub Stats**
 
 <div align="center">
   <!-- GitHub Stats -->
