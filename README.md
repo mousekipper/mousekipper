@@ -23,9 +23,21 @@
   
   <!-- Unreal Engine -->
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
+
+  <!-- Web Hacking -->
+  <img src="https://img.shields.io/badge/Web%20Hacking-E34F26?style=for-the-badge&logo=mozilla&logoColor=white" alt="Web Hacking" />
   
-  <!-- TryHackMe -->
-  <img src="https://img.shields.io/badge/TryHackMe-2EAD33?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  <!-- Reversing -->
+  <img src="https://img.shields.io/badge/Reversing-003545?style=for-the-badge&logo=probot&logoColor=white" alt="Reversing" />
+  
+  <!-- Hardware Hacking -->
+  <img src="https://img.shields.io/badge/Hardware%20Hacking-F54C4F?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Hardware Hacking" />
+  
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 ---
@@ -37,9 +49,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mousekipper&show_icons=true&theme=radical" alt="mousekipper's GitHub Stats" />
   <br>
   
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousekipper&theme=radical" alt="mousekipper's Streak Stats" />
-  <br>
+
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousekipper&layout=compact&theme=radical" alt="mousekipper's Top Languages" />
