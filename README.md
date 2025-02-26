@@ -12,7 +12,7 @@ i am learning hacking
 
 ---
 
-###**Tech stats**
+**Tech stats**
 
 <p>
   <!-- Python -->
