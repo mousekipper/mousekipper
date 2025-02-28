@@ -6,9 +6,8 @@
 
 **About Me**
 
-i am game developer
-i am python developer
-i am learning hacking
+i'm learning hacking
+i'm game/python developer
 
 ---
 
