@@ -8,6 +8,7 @@
 
 i'm learning hacking
 i'm game/python developer
+i'm bash developer
 
 ---
 
