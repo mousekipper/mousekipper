@@ -45,12 +45,6 @@ i'm bash developer
 **GitHub Stats**
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mousekipper&show_icons=true&theme=radical" alt="mousekipper's GitHub Stats" />
-  <br>
-  
-
-  
-  <!-- Top Languages -->
+ <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousekipper&layout=compact&theme=radical" alt="mousekipper's Top Languages" />
 </div>
