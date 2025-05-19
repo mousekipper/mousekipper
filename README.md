@@ -7,8 +7,7 @@
 **About Me**
 
 i'm learning hacking
-i'm game/python developer
-i'm bash developer
+i'm game/python/cpp/bash developer
 
 ---
 
